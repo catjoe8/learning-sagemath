@@ -1,2 +1,3 @@
 # sagemath-graph-theory-notes
-Personal learning notes using SageMath
+Personal SageMath notebooks exploring graph theory and tree structures
+relevant to phylogenetics.
